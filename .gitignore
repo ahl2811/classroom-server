@@ -60,6 +60,3 @@ typings/
 # next.js build output
 .next
 1
-
-# typescript
-dist/
